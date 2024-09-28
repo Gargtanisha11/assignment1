@@ -1,0 +1,1 @@
+export const IFSC_URL="https://ifsc.razorpay.com/"
